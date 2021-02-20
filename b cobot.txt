@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+  
+  <category>
+    <pattern>MY NAME IS *</pattern>
+    <template>hi! <set name="username"><star/></set></template>
+  </category>
+  
+  <category>
+      <pattern>WHAT IS MY NAME</pattern>
+      <template>your name is <get name="username"/></template>
+   </category>
+   
+    <category>
+      <pattern>* win techweek</pattern>
+      <template>PRO_fessors</template>
+   </category>
+  
+  <category>
+      <pattern>* ACTIVE CASES * INDIA</pattern>
+      <template>228,707</template>
+   </category>
+   
+   <category>
+      <pattern>* ACTIVE CASES *</pattern>
+      <template>active cases in world are 22,617,427 with highest number of active cases in America with 8,463,484</template>
+   </category>
+   
+   <category>
+      <pattern>* CONFIRMED CASES * INDIA</pattern>
+      <template>10,395,278</template>
+   </category>
+   
+   <category>
+      <pattern>* CONFIRMED CASES *</pattern>
+      <template>confirmed cases in world are 87,640,097 with highest number of confirmed cases in America with 21,857,610</template>
+   </category>
+  
+   <category>
+       <pattern>* PRECAUTIONS *</pattern>
+       <template>remember 3 major rules- Wear a face cover,Wash your hands,Keep a 6 safe distance</template>
+   </category>
+   
+   <category>
+       <pattern>WHAT * COVID</pattern>
+       <template>started in Wuhan,China, Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.</template>
+   </category>
+   
+   <category>
+       <pattern>WHAT * COVID *</pattern>
+      <template>started in Wuhan,China, Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.</template>
+   </category>
+   
+   <category>
+       <pattern>WHAT * COVID *</pattern>
+       <template>started in Wuhan,China, Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.</template>
+   </category>
+   
+   <category>
+       <pattern>* SYMPTOMS *</pattern>
+       <template>Most common symptoms:fever,dry cough,tiredness...Less common symptoms:aches and pains,sore throat,diarrhoea,conjunctivitis,headache,loss of taste or smell,a rash on skin, or discolouration of fingers or toes...Serious symptoms:difficulty breathing or shortness of breath,chest pain or pressure,loss of speech or movement...</template>
+   </category>
+   
+   <category>
+       <pattern>* DEATH RATE * INDIA</pattern>
+       <template>Approx 250 Deaths/Day</template>
+   </category>
+   
+   <category>
+       <pattern>* DEATH RATE</pattern>
+       <template>Approx 500 Deaths/Day</template>
+   </category>
+   
+   <category>
+       <pattern>WHEN WILL COLLEGE REOPEN</pattern>
+       <template>LOL, YOU STILL HAVE HOPE</template>
+   </category>
+   
+   <category>
+       <pattern>* DEATHS * INDIA</pattern>
+       <template>150,835</template>
+   </category>
+   
+   <category>
+       <pattern>* DEATHS *</pattern>
+       <template>total deaths in world are 1,924,312 with 150835 in India</template>
+   </category>
+   
+   <category>
+       <pattern>* TRANSFER</pattern>
+       <template>Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* TRANSFER *</pattern>
+       <template>Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* TRANSFERS</pattern>
+       <template> Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* TRANSFERS *</pattern>
+       <template> Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* spreads</pattern>
+       <template> Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* spreads *</pattern>
+       <template> Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* spread</pattern>
+       <template> Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* spread</pattern>
+       <template> Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* vaccine</pattern>
+       <template>Mass vaccination is already started in some countries like America, UK, Russia and is expected to start in India around mid of Jan
+</template>
+   </category>
+   
+   <category>
+       <pattern>* vaccine *</pattern>
+       <template>Mass vaccination is already started in some countries like America, UK, Russia and is expected to start in India around mid of Jan
+</template>
+   </category>
+   
+   <category>
+       <pattern>* NEW STRAIN *</pattern>
+       <template>found in UK, This variant, known as B.1.1.7, spreads far more easily between people as a result of a series of mutations that have been identified in the genetic coding.</template>
+   </category>
+   
+   <category>
+       <pattern>* ANIMALS SPREAD *</pattern>
+       <template>Coronaviruses are zoonotic, meaning they are transmitted between animals and people. Detailed investigations found that SARS-CoV was transmitted from civet cats to humans and MERS-CoV from dromedary camels to humans. Several known coronaviruses are circulating in animals that have not yet infected humans.</template>
+   </category>
+   
+   <category>
+       <pattern>* ANIMALS TRANSFER *</pattern>
+       <template>Coronaviruses are zoonotic, meaning they are transmitted between animals and people. Detailed investigations found that SARS-CoV was transmitted from civet cats to humans and MERS-CoV from dromedary camels to humans. Several known coronaviruses are circulating in animals that have not yet infected humans.</template>
+   </category>
+   
+   <categoty>
+       <pattern>* QUARANTINE *</pattern>
+       <template>Quarantines last for the duration of the upper limit of the incubation period of the virus, which is 14 days in this case. However, isolation lasts until the individual is free of symptoms and tests negative for the virus.
+</template>
+   </categoty>
+   
+   <category>
+       <pattern>* QUARANTINE</pattern>
+       <template>Quarantines last for the duration of the upper limit of the incubation period of the virus, which is 14 days in this case. However, isolation lasts until the individual is free of symptoms and tests negative for the virus.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* HOSPITAL</pattern>
+       <template>please tell your city</template>
+   </category>
+   
+   <category>
+       <pattern>*</pattern>
+       <that>please tell your city</that>
+       <template>nearest hospital is <star/>, medical house. Its also the one of the best in <star/></template>
+   </category>
+   
+   <category>
+       <pattern>* ORIGINATE</pattern>
+       <template>Wuhan, China</template>
+   </category>
+   
+   <category>
+       <pattern>* ORIGIN</pattern>
+       <template>Wuhan, China</template>
+   </category>
+   
+   <category>
+       <pattern>* ORIGIN *</pattern>
+       <template>Wuhan, China</template>
+   </category>
+   
+   <category>
+       <pattern>* START</pattern>
+       <template>Wuhan, China</template>
+   </category>
+   
+   <category>
+       <pattern>* STARTED</pattern>
+       <template>Wuhan, China</template>
+   </category>
+   
+   <category>
+       <pattern>* TREATMENT</pattern>
+       <template>If you have mild symptoms and are otherwise healthy, self-isolate and contact your medical provider or a COVID-19 information line for advice.
+Seek medical care if you have a fever, cough, and difficulty breathing. Call in advance.</template>
+   </category>
+   
+   <category>
+       <pattern>* TREATMENT *</pattern>
+       <template>If you have mild symptoms and are otherwise healthy, self-isolate and contact your medical provider or a COVID-19 information line for advice.
+Seek medical care if you have a fever, cough, and difficulty breathing. Call in advance.</template>
+   </category>
+   
+   <category>
+       <pattern>* strain *</pattern>
+       <template>The variant is described as far more contagious than earlier variants of the coronavirus, but not necessarily more deadly or likely to make an infected person more sick
+</template>
+   </category>
+   
+   <category>
+       <pattern>strain *</pattern>
+       <template>The variant is described as far more contagious than earlier variants of the coronavirus, but not necessarily more deadly or likely to make an infected person more sick
+</template>
+   </category>
+   
+   <category>
+       <pattern>* strain</pattern>
+       <template>The variant is described as far more contagious than earlier variants of the coronavirus, but not necessarily more deadly or likely to make an infected person more sick
+</template>
+   </category>
+   
+   <category>
+       <pattern>* test</pattern>
+       <template>The first one is to identify whether the actual COVID virus genetic material exists, and that's called a NAAT test, N-A-A-T. And it's the PCR testing where you would have a nasal pharyngeal swab or a pharyngeal swab taken.</template>
+   </category>
+   
+   <category>
+       <pattern>* test *</pattern>
+       <template>The first one is to identify whether the actual COVID virus genetic material exists, and that's called a NAAT test, N-A-A-T. And it's the PCR testing where you would have a nasal pharyngeal swab or a pharyngeal swab taken.</template>
+   </category>
+   
+   
+   
+  
+   
+   
+ 
+ 
+  
+</aiml>

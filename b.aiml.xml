@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+  
+  <category>
+    <pattern>MY NAME IS *</pattern>
+    <template>hi! <set name="username"><star/></set></template>
+  </category>
+  
+  <category>
+      <pattern>WHAT IS MY NAME</pattern>
+      <template>your name is <get name="username"/></template>
+   </category>
+   
+    <category>
+      <pattern>* WIN TECHWEEK</pattern>
+      <template>PRO_fessors(Obviously!)</template>
+   </category>
+  
+  <category>
+      <pattern>* ACTIVE CASES * INDIA</pattern>
+      <template>?!!</template>
+   </category>
+   
+   <category>
+      <pattern>* ACTIVE CASES *</pattern>
+      <template>?!</template>
+   </category>
+   
+   <category>
+      <pattern>* CONFIRMED CASES * INDIA</pattern>
+      <template>?!!</template>
+   </category>
+   
+   <category>
+      <pattern>* CONFIRMED CASES *</pattern>
+      <template>?!</template>
+   </category>
+  
+   <category>
+       <pattern>* PRECAUTIONS *</pattern>
+       <template>remember 3 major rules- Wear a face cover,Wash your hands,Keep a 6 feet safe distance</template>
+   </category>
+    <category>
+       <pattern>* PRECAUTIONS</pattern>
+       <template>remember 3 major rules- Wear a face cover,Wash your hands,Keep a 6 feet safe distance</template>
+   </category>
+    <category>
+       <pattern>PRECAUTIONS *</pattern>
+       <template>remember 3 major rules- Wear a face cover,Wash your hands,Keep a 6 feet safe distance</template>
+   </category>
+   
+   <category>
+       <pattern>WHAT * COVID</pattern>
+       <template>started in Wuhan,China, Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.</template>
+   </category>
+   
+   <category>
+       <pattern>WHAT * COVID *</pattern>
+      <template>started in Wuhan,China, Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.</template>
+   </category>
+   
+   <category>
+       <pattern>WHAT * COVID *</pattern>
+       <template>started in Wuhan,China, Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.</template>
+   </category>
+   
+   <category>
+       <pattern>* SYMPTOMS *</pattern>
+       <template>Most common symptoms:fever,dry cough,tiredness...Less common symptoms:aches and pains,sore throat,diarrhoea,conjunctivitis,headache,loss of taste or smell,a rash on skin, or discolouration of fingers or toes...Serious symptoms:difficulty breathing or shortness of breath,chest pain or pressure,loss of speech or movement...</template>
+   </category>
+   
+   <category>
+       <pattern>* DEATH RATE * INDIA</pattern>
+       <template>Approx 250 Deaths/Day</template>
+   </category>
+   
+   <category>
+       <pattern>* DEATH RATE</pattern>
+       <template>Approx 500 Deaths/Day</template>
+   </category>
+   <category>
+       <pattern>* DEATH RATE *</pattern>
+       <template>Approx 500 Deaths/Day</template>
+   </category>
+   
+   <category>
+       <pattern>WHEN WILL COLLEGE REOPEN</pattern>
+       <template>LOL, YOU STILL HAVE HOPE</template>
+   </category>
+   
+   <category>
+       <pattern>* DEATHS * INDIA</pattern>
+       <template>?!!</template>
+   </category>
+   
+   <category>
+       <pattern>* DEATHS *</pattern>
+       <template>?!</template>
+   </category>
+   
+   <category>
+       <pattern>* TRANSFER</pattern>
+       <template>Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* TRANSFER *</pattern>
+       <template>Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* TRANSFERS</pattern>
+       <template> Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* TRANSFERS *</pattern>
+       <template> Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* SPREADS</pattern>
+       <template> Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* SPREADS *</pattern>
+       <template> Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* SPREAD</pattern>
+       <template> Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* SPREAD *</pattern>
+       <template> Current evidence suggests that transmission of SARS-CoV-2 occurs primarily between people through direct, indirect, or close contact with infected people through infected secretions such as saliva and respiratory secretions, or through their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* VACCINE</pattern>
+       <template>Mass vaccination is already started in some countries like America, UK, Russia and is expected to start in India around mid of Jan
+</template>
+   </category>
+   
+   <category>
+       <pattern>* VACCINE *</pattern>
+       <template>Mass vaccination is already started in some countries like America, UK, Russia and is expected to start in India around mid of Jan
+</template>
+   </category>
+   <category>
+       <pattern>* VACCINATED</pattern>
+       <template>Mass vaccination is already started in some countries like America, UK, Russia and is expected to start in India around mid of Jan
+</template>
+   </category>
+   
+   <category>
+       <pattern>* VACCINATED *</pattern>
+       <template>Mass vaccination is already started in some countries like America, UK, Russia and is expected to start in India around mid of Jan
+</template>
+   </category>
+   
+   <category>
+       <pattern>* NEW STRAIN *</pattern>
+       <template>found in UK, This variant, known as B.1.1.7, spreads far more easily between people as a result of a series of mutations that have been identified in the genetic coding.</template>
+   </category>
+   
+   <category>
+       <pattern>* ANIMALS SPREAD *</pattern>
+       <template>Coronaviruses are zoonotic, meaning they are transmitted between animals and people. Detailed investigations found that SARS-CoV was transmitted from civet cats to humans and MERS-CoV from dromedary camels to humans. Several known coronaviruses are circulating in animals that have not yet infected humans.</template>
+   </category>
+   
+   <category>
+       <pattern>* ANIMALS TRANSFER *</pattern>
+       <template>Coronaviruses are zoonotic, meaning they are transmitted between animals and people. Detailed investigations found that SARS-CoV was transmitted from civet cats to humans and MERS-CoV from dromedary camels to humans. Several known coronaviruses are circulating in animals that have not yet infected humans.</template>
+   </category>
+   
+   <categoty>
+       <pattern>* QUARANTINE *</pattern>
+       <template>Quarantines last for the duration of the upper limit of the incubation period of the virus, which is 14 days in this case. However, isolation lasts until the individual is free of symptoms and tests negative for the virus.
+</template>
+   </categoty>
+   
+   <category>
+       <pattern>* QUARANTINE</pattern>
+       <template>Quarantines last for the duration of the upper limit of the incubation period of the virus, which is 14 days in this case. However, isolation lasts until the individual is free of symptoms and tests negative for the virus.
+</template>
+   </category>
+   
+   <category>
+       <pattern>* HOSPITAL</pattern>
+       <template>please tell your city. Your input should be of the form [your city] city</template>
+   </category>
+   
+   <category>
+       <pattern>* CITY</pattern>
+       
+       <template>sshttps://www.medindia.net/patients/hospital_search/hospitals-<star/>.htm</template>
+   </category>
+   
+   
+   <category>
+       <pattern>* ORIGINATE</pattern>
+       <template>Wuhan, China</template>
+   </category>
+   
+   <category>
+       <pattern>* ORIGIN</pattern>
+       <template>Wuhan, China</template>
+   </category>
+   
+   <category>
+       <pattern>* ORIGIN *</pattern>
+       <template>Wuhan, China</template>
+   </category>
+   
+   <category>
+       <pattern>* START</pattern>
+       <template>Wuhan, China</template>
+   </category>
+   
+   <category>
+       <pattern>* STARTED</pattern>
+       <template>Wuhan, China</template>
+   </category>
+   
+   <category>
+       <pattern>* TREATMENT</pattern>
+       <template>If you have mild symptoms and are otherwise healthy, self-isolate and contact your medical provider or a COVID-19 information line for advice.
+Seek medical care if you have a fever, cough, and difficulty breathing. Call in advance.</template>
+   </category>
+   
+   <category>
+       <pattern>* TREATMENT *</pattern>
+       <template>If you have mild symptoms and are otherwise healthy, self-isolate and contact your medical provider or a COVID-19 information line for advice.
+Seek medical care if you have a fever, cough, and difficulty breathing. Call in advance.</template>
+   </category>
+    <category>
+       <pattern>* TREATMENTS</pattern>
+       <template>If you have mild symptoms and are otherwise healthy, self-isolate and contact your medical provider or a COVID-19 information line for advice.
+Seek medical care if you have a fever, cough, and difficulty breathing. Call in advance.</template>
+   </category>
+   
+   <category>
+       <pattern>* TREATMENTS *</pattern>
+       <template>If you have mild symptoms and are otherwise healthy, self-isolate and contact your medical provider or a COVID-19 information line for advice.
+Seek medical care if you have a fever, cough, and difficulty breathing. Call in advance.</template>
+   </category>
+   
+   <category>
+       <pattern>* STRAIN *</pattern>
+       <template>The variant is described as far more contagious than earlier variants of the coronavirus, but not necessarily more deadly or likely to make an infected person more sick
+</template>
+   </category>
+   
+   <category>
+       <pattern>STRAIN *</pattern>
+       <template>The variant is described as far more contagious than earlier variants of the coronavirus, but not necessarily more deadly or likely to make an infected person more sick
+</template>
+   </category>
+   
+   <category>
+       <pattern>* STRAIN</pattern>
+       <template>The variant is described as far more contagious than earlier variants of the coronavirus, but not necessarily more deadly or likely to make an infected person more sick
+</template>
+   </category>
+   
+   <category>
+       <pattern>* TEST</pattern>
+       <template>The first one is to identify whether the actual COVID virus genetic material exists, and that's called a NAAT test, N-A-A-T. And it's the PCR testing where you would have a nasal pharyngeal swab or a pharyngeal swab taken.</template>
+   </category>
+   
+   <category>
+       <pattern>* TEST *</pattern>
+       <template>The first one is to identify whether the actual COVID virus genetic material exists, and that's called a NAAT test, N-A-A-T. And it's the PCR testing where you would have a nasal pharyngeal swab or a pharyngeal swab taken.</template>
+   </category>
+   
+  <category>
+       <pattern>* SOCIAL DISTANCING</pattern>
+       <template>Social distancing, also called “physical distancing,” means keeping a safe space between yourself and other people who are not from your household. To practice social or physical distancing, stay at least 6 feet (about 2 arms' length) from other people who are not from your household in both indoor and outdoor spaces.</template>
+   </category>
+   
+   <category>
+       <pattern>* SOCIAL DISTANCING *</pattern>
+       <template>Social distancing, also called “physical distancing,” means keeping a safe space between yourself and other people who are not from your household. To practice social or physical distancing, stay at least 6 feet (about 2 arms' length) from other people who are not from your household in both indoor and outdoor spaces.</template>
+   </category>
+   
+   <category>
+       <pattern>* POSITIVE</pattern>
+       <template>Isolate yourself from others, starting as quickly as you can. Members of your household and your close contacts need to quarantine, too. Assess your symptom severity and know when to seek emergency care. Reach out to your doctor, but know there's no magic pill. Rest and rehydrate but try to avoid lingering in bed</template>
+   </category>
+   
+    <category>
+       <pattern>* POSITIVE *</pattern>
+       <template>Isolate yourself from others, starting as quickly as you can. Members of your household and your close contacts need to quarantine, too. Assess your symptom severity and know when to seek emergency care. Reach out to your doctor, but know there's no magic pill. Rest and rehydrate but try to avoid lingering in bed</template>
+   </category>
+   
+   <category>
+       <pattern>* ASYMPTOMATIC</pattern>
+       <template>An asymptomatic laboratory-confirmed case is a person infected with COVID-19 who does not develop symptoms. Asymptomatic transmission refers to transmission of the virus from a person, who does not develop symptoms. But can still transmit the virus</template>
+   </category>
+   
+    <category>
+       <pattern>* ASYMPTOMATIC *</pattern>
+       <template>An asymptomatic laboratory-confirmed case is a person infected with COVID-19 who does not develop symptoms. Asymptomatic transmission refers to transmission of the virus from a person, who does not develop symptoms. But can still transmit the virus</template>
+   </category>
+   
+    <category>
+       <pattern>ASYMPTOMATIC *</pattern>
+       <template>An asymptomatic laboratory-confirmed case is a person infected with COVID-19 who does not develop symptoms. Asymptomatic transmission refers to transmission of the virus from a person, who does not develop symptoms. But can still transmit the virus</template>
+   </category>
+   
+   <category>
+       <pattern>WHAT * LOCKDOWN</pattern>
+       <template>A lockdown is a restriction policy for people or community to stay where they are, usually due to specific risks to themselves or to others if they can move and interact freely. The term "stay-at-home" or "shelter-in-place" is often used for lockdowns that affect an area, rather than specific locations.</template>
+   </category>
+   
+   <category>
+       <pattern>WHAT * LOCKDOWN *</pattern>
+       <template>A lockdown is a restriction policy for people or community to stay where they are, usually due to specific risks to themselves or to others if they can move and interact freely. The term "stay-at-home" or "shelter-in-place" is often used for lockdowns that affect an area, rather than specific locations.</template>
+   </category>
+   
+   <category>
+       <pattern>* LOCKDOWN *</pattern>
+       <template>with the decreasing number of active cases, Lock down is expected to end soon and finally colleges may reopen</template>
+   </category>
+   
+   <category>
+       <pattern>* DIFFERENCE * COVID *</pattern>
+       <template>COVID-19 seems to spread more easily than flu and causes more serious illnesses in some people. It can also take longer before people show symptoms and people can be contagious for longer. More information about differences between flu and COVID-19 is available in the different sections below.</template>
+   </category>
+   
+   <category>
+       <pattern>* DIFFERENCE * CORONA *</pattern>
+       <template>COVID-19 seems to spread more easily than flu and causes more serious illnesses in some people. It can also take longer before people show symptoms and people can be contagious for longer. More information about differences between flu and COVID-19 is available in the different sections below.</template>
+   </category>
+   
+   <category>
+       <pattern>* DIFFERENCE * CORONAVIRUS *</pattern>
+       <template>COVID-19 seems to spread more easily than flu and causes more serious illnesses in some people. It can also take longer before people show symptoms and people can be contagious for longer. More information about differences between flu and COVID-19 is available in the different sections below.</template>
+   </category>
+   
+   <category>
+       <pattern>* DIFFERENCE * COVID</pattern>
+       <template>COVID-19 seems to spread more easily than flu and causes more serious illnesses in some people. It can also take longer before people show symptoms and people can be contagious for longer. More information about differences between flu and COVID-19 is available in the different sections below.</template>
+   </category>
+   
+   <category>
+       <pattern>* DIFFERENCE * CORONA</pattern>
+       <template>COVID-19 seems to spread more easily than flu and causes more serious illnesses in some people. It can also take longer before people show symptoms and people can be contagious for longer. More information about differences between flu and COVID-19 is available in the different sections below.</template>
+   </category>
+   
+   <category>
+       <pattern>* DIFFERENCE * CORONAVIRUS</pattern>
+       <template>COVID-19 seems to spread more easily than flu and causes more serious illnesses in some people. It can also take longer before people show symptoms and people can be contagious for longer. More information about differences between flu and COVID-19 is available in the different sections below.</template>
+   </category>
+   
+   <category>
+       <pattern>* IMMUNITY</pattern>
+       <template>Sleep - We heal when we sleep. A healthy immune system can fight off infections more than a sleep-deprived immune system. Adults should focus on getting between six to eight hours a sleep a night. Sleep in a dark room and keep a regular bedtime and wakeup routine. If you’re having trouble sleeping melatonin supplements may be a good option.
+Lower stress levels - Although you should practice lowering your stress levels year-round practicing amid this virus outbreak is particularly important as stress directly impacts your immune system. Find ways to lower stress levels by meditating, exercising and controlled breathing techniques.
+Enjoy a balanced diet - Nutritional deficiencies make us more susceptible to viruses and bacteria, that’s why it is important to eat nutritional foods that maintain a healthy immune system. Whole-foods including grains, beans, nuts and seeds provide daily nutritional value along with sweet-tasting vegetables and leafy greens.</template>
+   </category>
+   
+   <category>
+       <pattern>* IMMUNITY *</pattern>
+       <template>Sleep - We heal when we sleep. A healthy immune system can fight off infections more than a sleep-deprived immune system. Adults should focus on getting between six to eight hours a sleep a night. Sleep in a dark room and keep a regular bedtime and wakeup routine. If you’re having trouble sleeping melatonin supplements may be a good option.
+Lower stress levels - Although you should practice lowering your stress levels year-round practicing amid this virus outbreak is particularly important as stress directly impacts your immune system. Find ways to lower stress levels by meditating, exercising and controlled breathing techniques.
+Enjoy a balanced diet - Nutritional deficiencies make us more susceptible to viruses and bacteria, that’s why it is important to eat nutritional foods that maintain a healthy immune system. Whole-foods including grains, beans, nuts and seeds provide daily nutritional value along with sweet-tasting vegetables and leafy greens.</template>
+   </category>
+   
+   <category>
+       <pattern>* MASK</pattern>
+       <template>All the people should wear mask to prevent tha spread of COVID -19. Fabric masks are recommended to prevent onward transmission in the general population in public areas, particularly where distancing is not possible, and in areas of community transmission.</template>
+   </category>
+   
+   <category>
+       <pattern>* MASK *</pattern>
+       <template>All the people should wear mask to prevent tha spread of COVID -19. Fabric masks are recommended to prevent onward transmission in the general population in public areas, particularly where distancing is not possible, and in areas of community transmission.</template>
+   </category>
+   
+   <category>
+       <pattern>WHAT * CORONA</pattern>
+       <template>started in Wuhan,China, Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.</template>
+   </category>
+   
+   <category>
+       <pattern>WHAT * CORONA *</pattern>
+      <template>started in Wuhan,China, Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.</template>
+   </category>
+   
+   <category>
+       <pattern>WHAT * CORONA *</pattern>
+       <template>started in Wuhan,China, Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.</template>
+   </category>
+   
+   <category>
+       <pattern>* TRAVEL</pattern>
+       <template>Travelling during pandemic is not safe. You are advised to stay at home and be a responsible citizen</template>
+   </category>
+   
+    <category>
+       <pattern>* TRAVEL *</pattern>
+       <template>Travelling during pandemic is not safe. You are advised to stay at home and be a responsible citizen</template>
+   </category>
+   
+    <category>
+       <pattern>* TRAVELLING</pattern>
+       <template>Travelling during pandemic is not safe. You are advised to stay at home and be a responsible citizen</template>
+   </category>
+   
+   
+    <category>
+       <pattern>* TRAVELLING *</pattern>
+       <template>Travelling during pandemic is not safe. You are advised to stay at home and be a responsible citizen</template>
+   </category>
+   
+  
+   
+   
+ 
+ <category>
+ <pattern>*</pattern>
+ <template>Sorry PRO_fessors haven't taught me this!. Will you teach me! ?</template>
+ </category>
+  
+</aiml>

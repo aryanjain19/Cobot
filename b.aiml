@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version = "1.0" encoding = "UTF-8">
+    
+  
+  <category>
+    <pattern>MY NAME IS *</pattern>
+    <template>hi! <set name="username"><star/></set></template>
+  </category>
+  
+  <category>
+      <pattern>WHAT IS MY NAME</pattern>
+      <template>your name is <get name="username"/></template>
+   </category>
+   
+    <category>
+      <pattern>* win techweek</pattern>
+      <template>PRO_fessors</template>
+   </category>
+  
+  <category>
+      <pattern>* ACTIVE CASES * INDIA</pattern>
+      <template>228,707</template>
+   </category>
+   
+   <category>
+      <pattern>* ACTIVE CASES *</pattern>
+      <template>active cases in world are 22,617,427 with highest number of active cases in America with 8,463,484</template>
+   </category>
+   
+   <category>
+      <pattern>* CONFIRMED CASES * INDIA</pattern>
+      <template>10,395,278</template>
+   </category>
+   
+   <category>
+      <pattern>* CONFIRMED CASES *</pattern>
+      <template>confirmed cases in world are 87,640,097 with highest number of confirmed cases in America with 21,857,610</template>
+   </category>
+  
+   <category>
+       <pattern>* PRECAUTIONS *</pattern>
+       <template>remember 3 major rules- Wear a face cover,Wash your hands,Keep a safe distance</template>
+   </category>
+   
+   <category>
+       <pattern>WHAT * COVID*</pattern>
+       <template>Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.</template>
+   </category>
+   
+   <category>
+       <pattern>* SYMPTOMS *</pattern>
+       <template>Most common symptoms:fever,dry cough,tiredness...Less common symptoms:aches and pains,sore throat,diarrhoea,conjunctivitis,headache,loss of taste or smell,a rash on skin, or discolouration of fingers or toes...Serious symptoms:difficulty breathing or shortness of breath,chest pain or pressure,loss of speech or movement...</template>
+   </category>
+ 
+  
+</aiml>
