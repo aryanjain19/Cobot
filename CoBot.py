@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jan  5 19:55:18 2021
-
-@author: Harshit Bansal
 """
 from tkinter import *
 from tkinter.ttk import *
